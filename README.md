@@ -40,4 +40,4 @@ To use this project with HTC VIVE and HMD, you’ll need to follow the same step
 
 ## Link to download the project
 
-https://oned
+https://onedrive.live.com/?authkey=%21ALvLFl9xX0oHuLo&cid=55612E0850384065&id=55612E0850384065%214934&parId=root&action=locate
