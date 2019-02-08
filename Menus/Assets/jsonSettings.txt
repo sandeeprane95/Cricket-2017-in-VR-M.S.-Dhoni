@@ -1,0 +1,1 @@
+{"myTeam":"New Zealand","opponentTeam":"Pakistan","Difficulty":"","Overs":"1","Stadium":""}
